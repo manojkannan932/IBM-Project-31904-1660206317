@@ -7,4 +7,4 @@ Due to the ignorance of healthy food habits, obesity rates are increasing at an 
 This project aims at building a web App that automatically estimates food attributes such as ingredients and nutritional value by classifying the input image of food.  Our method employs Clarifai's AI-Driven Food Detection Model for accurate food identification and Food API's to give the nutritional value of the identified food.
 
 ### Technical Architecture:
-![alt text](https://github.com/DevaAsDev/nutrition_assistant/blob/master/src/structure.png?raw=true)
+![image](https://github.com/DevaAsDev/nutrition_assistant/blob/master/src/structure.png?raw=true)
