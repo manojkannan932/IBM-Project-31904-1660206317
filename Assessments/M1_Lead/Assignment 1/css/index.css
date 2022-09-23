@@ -71,7 +71,7 @@ body {
     height: 150px;
     width: 150px;
     border: solid;
-    background-image: url("/src/icon.png");
+    background-image: url("../src/icon.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
