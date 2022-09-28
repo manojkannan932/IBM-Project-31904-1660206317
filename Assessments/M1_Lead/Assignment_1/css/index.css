@@ -88,9 +88,9 @@ body {
     padding-top: 100px;
     padding: 40px;
     gap: 12px;
-    justify-content: center;
-    justify-items: center;
-    align-items: center;
+    /*justify-content: center;*/
+    /*justify-items: center;*/
+    /*align-items: center;*/
 }
 
 .bo {
@@ -114,8 +114,8 @@ body {
 }
 
 .bo:hover {
-    width: 220px;
-    height: 320px;
+    width: 260px;
+    height: 360px;
 }
 
 .container a {
@@ -154,6 +154,10 @@ body {
     .bo {
         margin-top: 30px;
     }
+
+    p {
+        overflow: auto;
+    }
   }
 
   @media only screen and (max-width: 998px) {
@@ -189,4 +193,9 @@ body {
         width: 100vw;
         margin: auto;
     }
+
+    p {
+        overflow: auto;
+    }
+    
   }
