@@ -1,9 +1,9 @@
-#last{
-    width: 100%;
-    height: auto;
-    color: black;
-    justify-content: center;
-    background-color: #ffffff;
+    #last{
+        width: 100%;
+        height: auto;
+        color: black;
+        justify-content: center;
+        background-color: #ffffff;
     }
 
     #submit {
@@ -13,8 +13,22 @@
         transition: padding 0.9s;
     }
 
+    a {
+        color: #ffffff;
+    }
+
+    a:link {
+        color: white;
+    }
+
+    a:hover {
+        color: white;
+        text-decoration: none;
+    }
+
     #submit:hover {
-        padding: 8px 23px;
+        text-decoration: none;
+        
     }
     .full{
     max-width: 80%;
@@ -71,6 +85,7 @@
     .list-item a:hover{
     text-decoration: underline;
     }
+
     .form-control{
     background-color: white;
     }
@@ -95,7 +110,6 @@
     .lt{
         width: 55%;
         display: inline-block;
-        float: left;
         margin-right: 0;
     }
     .rt{
